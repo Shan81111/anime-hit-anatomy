@@ -5,7 +5,7 @@
 This project analyzes the structural attributes that influence anime ratings — format, episode count, genre, and popularity — and uses unsupervised learning to uncover four distinct "anime archetypes" hiding in the data.
 
 📖 **Read the full story:** [What Turns an Anime Into a Hit? We Dug Into 12,000 Titles to Find Out](https://medium.com/@shanzay.omar/what-turns-an-anime-into-a-hit-we-dug-into-12-000-titles-to-find-out-35891f0c1abb) (Medium)
-
+Article by [Shanzay Omar](https://medium.com/@shanzay.omar).
 ---
 
 ## Research Question
@@ -61,8 +61,3 @@ anime-hit-anatomy/
 ## Tech Stack
 
 `Python` · `pandas` · `NumPy` · `Matplotlib` · `SciPy` · `scikit-learn`
-
-## Authors
-
-Built as a data science course project (Group 10).
-Article by [Shanzay Omar](https://medium.com/@shanzay.omar).
